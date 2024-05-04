@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85d74e2320514d20be423e7bb6d0eea3, type: 3}
+  m_Name: EquipmentFactory
+  m_EditorClassIdentifier: 
+  _weaponFactory: {fileID: 11400000, guid: 1f3844b2d278d264a843908833891e4a, type: 2}
+  shieldFactory: {fileID: 11400000, guid: 25dc529176177454f918eaa61f19efbf, type: 2}
